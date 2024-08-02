@@ -1,7 +1,0 @@
-services:
-  appimg:
-    build:
-      - context: /home/priyam/Desktop/Docker_Assignment_/CALSOFT_DOCKER_Assignment1
-      - dockerfile: Dockerfile
-    volumes:
-      - /home/priyam/Desktop/Docker_Assignment_/CALSOFT_DOCKER_Assignment1:/app
